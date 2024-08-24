@@ -39,13 +39,13 @@ A simple weather app that fetches and displays weather information using the Ope
    git clone https://github.com/Adlichalbi/WeatherApp.git
    ```
 2. Navigate to the project directory:
-```bash
+   ```bash
     cd WeatherApp
-```  
+   ```  
 
 3. Open `index.html` in a web browser:
 
-Simply double-click the index.html file or open it using your preferred browser.
+   Simply double-click the index.html file or open it using your preferred browser.
 
 ## API Key
 
